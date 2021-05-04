@@ -1,4 +1,3 @@
-import react from 'react'
 
 const Total = ({course}) => {
     const parts = course.parts
